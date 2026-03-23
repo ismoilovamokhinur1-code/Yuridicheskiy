@@ -20,7 +20,7 @@ export default function Main() {
           </div>
         </div>
         {/* first side end */}
-
+sWEDRFT
         <div className="main_second_side">
           <div>
             <p className="main_second_p1">Адвокат</p>
